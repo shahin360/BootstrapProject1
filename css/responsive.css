@@ -1,0 +1,64 @@
+@media(max-width:576px){
+  body{
+    background-color: rgb(255, 255, 255);
+  }
+  .banner-heading-top{
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  .banner-heading-top h3{
+    font-size: 30px!important;
+  }
+  .banner-heading-top h5{
+    font-size: 25px!important;
+  }
+  #banner-dwn-text{
+    font-size: 25px!important;
+    text-align: center;
+  }
+
+  .banner-content{
+    padding: 0!important;
+    margin-top: 0;
+    font-size: 20px;
+    margin-top: 77px;
+  }
+  #bookbtn  a{
+  color: white;
+  padding: 15px 15px;
+  background-color: rgb(166, 173, 173);
+  margin-right: 5px;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+  border-radius: 30px;
+  display: block;
+  margin-top: 21px;
+  }
+  .main-content{
+    padding: 0!important;
+  }
+  .main-content-left-item h3{
+    font-size: 30px!important;
+  }
+  .main-content-right-item h3{
+    font-size: 30px!important;
+  }
+  .main-content-top-text{
+    font-size: 25px!important;
+  }
+  #ficon ul li a {
+    text-align: left!important;
+    margin: 0px -6px!important;
+}
+#ficon ul li a i{
+  font-size: 20px;
+}
+.footer-top-part-text{
+  font-size: 20px!important;
+}
+.footer-top-text {
+  font-size: 20px!important;
+}
+ 
+}
